@@ -1,0 +1,36 @@
+*{
+    font-family: sans-serif;
+}
+body{
+    background-color: whitesmoke;
+}
+
+#navItems{
+    color: #ffffff;
+}
+#navItems:hover{
+    color:black;
+}
+.container{
+    background-image: url("./assets/home1.jpg");
+    background-size: cover;
+    position: absolute;
+    height:96vh;
+    width:100vw;
+}
+.text{
+    color:white;
+}
+footer{
+    background-color: rgb(21, 35, 81);
+    width: 100vw;
+    color: white;
+    text-align: center; 
+    position: absolute;
+    top:95.5vh;
+}
+.button{
+    text-decoration: none;
+    color:white;
+    border-width:0px;
+}
